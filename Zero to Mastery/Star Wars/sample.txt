@@ -1,0 +1,5 @@
+<div id="starwars">
+
+</div>
+
+<script src="starwars.js"></script>

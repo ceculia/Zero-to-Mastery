@@ -1,0 +1,15 @@
+{
+  "name": "facerecognitionbrain",
+  "version": "1.0.0",
+  "description": "face recognition app",
+  "main": "index.js",
+  "dependencies": {
+    "create-react-app": "^1.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saria",
+  "license": "ISC"
+}
